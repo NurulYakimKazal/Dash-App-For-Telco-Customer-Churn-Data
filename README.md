@@ -4,12 +4,12 @@ This project is about building a dashboard, utilizing the python library of Dash
 (Data source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 In general, the data types which which can be displayed by this dashboard are divided into four main categories, including:
-1. Categorical data
-2. Numerical data
-3. Categorical Vs Numerical data
-4. Numerical Vs Numerical data
+1. Categorical Data
+2. Numerical Data
+3. Categorical Vs Numerical Data
+4. Numerical Vs Numerical Data
 
-The users can utilize the dropdown menu to select the data type and its variables that they want to show.
+The users can utilize the dropdown menu to select the data type and its variables which they want to show.
 
 This dashboard utilizes several Python libraries, including:
 1. Dash
@@ -19,6 +19,6 @@ This dashboard utilizes several Python libraries, including:
 5. NumPy, and
 6. Regex
 
-By taking advantage of Dash Bootstrap Component, the design of the dashboard is responsive to the changes of the screen size.
+By taking advantage of Dash Bootstrap Component library, the design of the dashboard is responsive to the changes of the screen size.
 
-Visit this link to see the dashboard in action
+Visit [NurulYakimKazal.pythonanywhere.com](http://nurulyakimkazal.pythonanywhere.com/) to see the dashboard in action!
