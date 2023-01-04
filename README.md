@@ -13,7 +13,7 @@ The users can utilize the dropdown menu to select the data type and its variable
 
 This dashboard utilizes several Python libraries, including:
 1. Dash
-2. Dash Bootstrap Component
+2. Dash Bootstrap Components
 3. Plotly
 4. Pandas
 5. NumPy, and
