@@ -3,7 +3,7 @@
 This project is about building a dashboard, utilizing the python library of Dash by Plotly for visualizing the exploratory data analysis of the Telco Customer Churn data. 
 (Data source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
-In general, the data types which which can be displayed by this dashboard are divided into four main categories, including:
+In general, the data types which can be displayed by this dashboard are divided into four main categories, including:
 1. Categorical Data
 2. Numerical Data
 3. Categorical Vs Numerical Data
