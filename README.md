@@ -12,13 +12,13 @@ In general, the data types which can be displayed by this dashboard are divided 
 The users can utilize the dropdown menu to select the data type and its variables which they want to show.
 
 This dashboard utilizes several Python libraries, including:
-1. Dash
-2. Dash Bootstrap Components
-3. Plotly
-4. Pandas
-5. NumPy, and
-6. Regex
+1. dash
+2. dash-bootstrap-components
+3. plotly
+4. pandas
+5. numpy, and
+6. regex
 
-By taking advantage of Dash Bootstrap Component library, the design of the dashboard is responsive to the changes of the screen size.
+By taking advantage of dash-bootstrap-components, the design of the dashboard is responsive to the changes of the screen size.
 
 Visit [NurulYakimKazal.pythonanywhere.com](http://nurulyakimkazal.pythonanywhere.com/) to see the dashboard in action!
