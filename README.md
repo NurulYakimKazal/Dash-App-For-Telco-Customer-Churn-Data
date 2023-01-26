@@ -21,4 +21,4 @@ This dashboard utilizes several Python libraries, including:
 
 By taking advantage of dash-bootstrap-components, the design of the dashboard is responsive to the changes of the screen size.
 
-Visit [NurulYakimKazal.pythonanywhere.com](http://nurulyakimkazal.pythonanywhere.com/) to see the dashboard in action!
+Visit [NurulYakimKazal.pythonanywhere.com](https://nurulyakimkazal.pythonanywhere.com/) to see the dashboard in action!
