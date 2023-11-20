@@ -20,5 +20,3 @@ This dashboard utilizes several Python libraries, including:
 6. regex
 
 By taking advantage of dash-bootstrap-components, the design of the dashboard is responsive to the changes of the screen size.
-
-Visit [NurulYakimKazal.pythonanywhere.com](https://nurulyakimkazal.pythonanywhere.com/) to see the dashboard in action!
